@@ -1,0 +1,10 @@
+Albert Kupriyan Vadimovich 23 2 3 Math Physics Geography
+Malika Balashova Daniilovna 19 2 5 Programming Physics History
+Nika Borisova Denisovna 3 1 4 English Technology History
+Arseny Kruglov Ivanovich 30 4 5 Art Ukrainian Engineering
+Kirill Chernyy Davidovich 17 2 3 Programming English Math
+Sergey Shishkin Mironovich 4 1 4 Physics Technology Engineering
+Misha Kupriyan Egorovich 10 1 4 Statistics Health History
+Vlad Martynov Dmitrievich 32 3 5 Programming Art Nature
+Makar Maximov Arturovich 29 1 4 English Physics Nature
+Andrey Moiseev Demidovich 2 4 3 Biology Ukrainian History
